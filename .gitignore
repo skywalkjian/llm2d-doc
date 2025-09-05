@@ -56,3 +56,4 @@ backend/save/
 backend/__pycache__
 
 .codegpt
+.config.py
